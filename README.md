@@ -11,7 +11,7 @@ Hypervisors are computer softwares, firmwares or hardwares that create and runs 
 
 To create a Windows server with this repository, Vagrant and Virtualbox have to be installed
 
-- Install Homebrew from this link
+- Install Homebrew from this [link](https://brew.sh/)
 
 - Install Vagrant with the following command
   `brew install cask vagrant`
@@ -35,3 +35,8 @@ Depending on your network connectivity, This will most likeky take time since th
 
 `run virtualbox` to open the virtualbox UI and select the Windows machine click on the show button to open your windows OS
 
+![Image 1](https://res.cloudinary.com/eventsmanager/image/upload/v1538003171/Screen_Shot_2018-09-26_at_11.48.30_PM_rbxgsm.png)
+
+![Image 2](https://res.cloudinary.com/eventsmanager/image/upload/v1538003171/Screen_Shot_2018-09-26_at_11.49.19_PM_imezil.png)
+
+![Image 3](https://res.cloudinary.com/eventsmanager/image/upload/v1538003173/Screen_Shot_2018-09-26_at_11.49.51_PM_xha9mj.png)
